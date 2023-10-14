@@ -6,4 +6,5 @@ Mora
 Valentina
 wiskey
 Pollo
- 
+cerveza
+chocolate 
